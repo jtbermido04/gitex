@@ -1,5 +1,4 @@
-# This is an exercise
+# This is my first GIT repository
 
-I feel like i like git
+This is an exercuse for the 2024 IPGP Git Class.
 
-This is good
